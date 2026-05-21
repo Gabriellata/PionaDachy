@@ -79,11 +79,7 @@ export default function HomePage() {
             Solidne dachy na lata
           </h1>
 
-          {/* TEXT */}
-          <p className="text-white/90 text-base sm:text-lg leading-8 max-w-lg">
-            Eksperckie rzemiosło, najwyższa precyzja i materiały odporne
-            na każde warunki pogodowe.
-          </p>
+
         </div>
       </section>
 
@@ -94,10 +90,6 @@ export default function HomePage() {
           <div className="mb-14">
             <div className="w-[2px] h-16 bg-[#c42026] mb-4"></div>
 
-            <p className="uppercase tracking-[0.35em] text-xs text-[#c42026] mb-3 font-semibold">
-              Nasza Misja
-            </p>
-
             <h2 className="text-5xl font-light text-[#062f28]">
               O Nas
             </h2>
@@ -105,20 +97,10 @@ export default function HomePage() {
 
           <div className="bg-[#07503f] text-white p-8 sm:p-10 max-w-xl border-b-4 border-[#c42026] shadow-2xl">
             <p className="leading-9 text-lg">
-              PIONA DACHY to zespół pasjonatów budownictwa z wieloletnim
-              doświadczeniem. Specjalizujemy się w kompleksowych usługach
-              dekarskich, łącząc tradycyjną solidność z nowoczesnymi
-              technologiami. Nasza praca to gwarancja bezpieczeństwa
-              dla Twojego domu.
+              PIONA DACHY to goat
             </p>
 
-            <div className="mt-8 flex items-center gap-3">
-              <div className="w-4 h-4 rounded-full border-2 border-[#c42026]" />
 
-              <span className="uppercase tracking-[0.3em] text-xs text-gray-200">
-                Certyfikowani specjaliści
-              </span>
-            </div>
           </div>
         </div>
       </section>
