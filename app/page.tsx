@@ -25,7 +25,7 @@ export default function HomePage() {
 
           {/* PHONE BUTTON */}
           <a
-            href="tel:+48123456789"
+            href="tel:+48609140634"
             className="
               bg-[#07503f]
               text-white
